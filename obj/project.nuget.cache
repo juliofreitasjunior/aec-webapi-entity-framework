@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "d6uHGY4+kwX5vh7TMSbmbBG5q1+iuFYHWOcWVtTniNW3kUZtWdAw/aazCU+sle18K48+u8f6Tq9fvRpZZB4HOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Multilaser\\Desktop\\estudando git\\aec-webapi-entity-framework\\aec-webapi-entity-framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Multilaser\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Multilaser\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Multilaser\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Multilaser\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Multilaser\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Multilaser\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
